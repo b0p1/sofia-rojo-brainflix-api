@@ -4,7 +4,6 @@
     "title": "BMX Rampage: 2021 Highlights",
     "channel": "Red Cow",
     "image": "image0.jpeg",
-
     "description": "On a gusty day in Southern Utah, a group of 25 daring mountain bikers blew the doors off what is possible on two wheels, unleashing some of the biggest moments the sport has ever seen. While mother nature only allowed for one full run before the conditions made it impossible to ride, that was all that was needed for event veteran Kyle Strait, who won the event for the second time -- eight years after his first Red Cow Rampage title",
     "views": "1,001,023",
     "likes": "110,985",
@@ -300,5 +299,16 @@
         "timestamp": 1632496261000
       }
     ]
+  },
+  {
+    "id": "3bfb0cf3-61b5-4f2f-9b2c-4f5efbe1b8d5",
+    "title": "WORST DATE EVER!",
+    "channel": "Quirky Goat",
+    "image": "cat.jpeg",
+    "description": "I decided to change up my dating life and was that a BIG mistake. NEVER AGAIN! ",
+    "views": 0,
+    "likes": 0,
+    "timestamp": 1665865577992,
+    "comments": []
   }
 ]
