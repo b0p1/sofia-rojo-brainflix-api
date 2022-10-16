@@ -31,7 +31,7 @@ router.post("/", (req, res) => {
     id: uuidv4(),
     title,
     channel: "Quirky Goat",
-    image: "grey-image.jpeg",
+    image: "upload-img.jpeg",
     description,
     views: 0,
     likes: 0,
